@@ -8,6 +8,7 @@ def game_hash
       :players => [
         {
           :player_name => "Alan Anderson",
+          
         },
         {
           :player_name => "Reggie Evans",
