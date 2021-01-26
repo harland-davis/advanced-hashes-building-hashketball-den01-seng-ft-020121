@@ -16,9 +16,6 @@ def game_hash
           :steals =>
           :blocks =>
           :slam_dunks =>
-        },
-        {
-          :player_name => "Reggie Evans",
         }
       ]
     },
