@@ -19,6 +19,7 @@ def game_hash
         },
         {
           :player_name => "Reggie Evans"
+          :number => 30
         }
       ]
     },
