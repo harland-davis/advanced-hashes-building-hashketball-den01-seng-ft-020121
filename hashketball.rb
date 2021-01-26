@@ -8,6 +8,14 @@ def game_hash
       :players => [
         {
           :player_name => "Alan Anderson",
+          :number => 
+          :shoe =>
+          :points =>
+          :rebounds =>
+          :assists =>
+          :steals =>
+          :blocks =>
+          :slam_dunks =>
         }
       ]
     },
