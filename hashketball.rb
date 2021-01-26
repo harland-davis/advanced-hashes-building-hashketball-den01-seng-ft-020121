@@ -16,11 +16,11 @@ def game_hash
           :steals => 3,
           :blocks => 1,
           :slam_dunks => 1
-        },{
+        },
+        {
           :player_name => "Reggie Evans"
           :number => 30
         }
-    }
       ]
     },
     :away => {
